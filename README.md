@@ -1,6 +1,6 @@
 # Jarvis — Python Voice Assistant
 
-A wake-word activated voice assistant built in Python that listens for commands and responds using voice. Inspired by Iron Man's AI assistant, Jarvis can open websites, play music, read news headlines, and answer general queries using AI — all through voice.
+A wake-word-activated voice assistant built in Python that listens for commands and responds using voice. Inspired by Iron Man's AI assistant, Jarvis can open websites, play music, read news headlines, and answer general queries using AI — all through voice.
 
 ## Features
 
@@ -62,4 +62,4 @@ Actively in development — wake-word detection, web/music/news commands, and AI
 
 ## Why I Built This
 
-This project was built while transitioning from an Electronics & Telecommunication Engineering background into software development, as part of a hands-on Python learning roadmap. It helped me get comfortable with APIs, speech/audio libraries, and debugging real-world quirks like version-dependent behavior and TTS engine limitations.
+to gain experience of api and other functions
