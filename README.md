@@ -61,5 +61,4 @@ music = {
 Actively in development — wake-word detection, web/music/news commands, and AI fallback responses are all functional. Planned improvements include better wake-word accuracy and expanding the command set.
 
 ## Why I Built This
-
-to gain experience of api and other functions
+Built as a hands-on project to get comfortable with APIs, speech/audio libraries, and debugging real-world quirks like version-dependent behavior and TTS engine limitations.
